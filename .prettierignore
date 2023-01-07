@@ -1,0 +1,9 @@
+coverage
+package-lock.json
+out
+types
+CODE_OF_CONDUCT.md
+*.tsbuildinfo
+src/**/*.js
+test/**/*.js
+index.js
