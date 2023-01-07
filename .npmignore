@@ -1,0 +1,14 @@
+.github
+.vscode
+coverage
+test
+*.js.map
+types
+.editorconfig
+.eslintignore
+.*.json
+.gitignore
+.prettierignore
+CODE_OF_CONDUCT.md
+tsconfig.*
+*.config.*js
